@@ -1,2 +1,2 @@
 # nba_streamlit
-Simple dash for python example dashboard showing nba player career stats in a table with interactive plots. 
+Simple streamlit for python example dashboard showing nba player career stats in a table with interactive plots. 
